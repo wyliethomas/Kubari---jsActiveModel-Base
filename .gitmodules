@@ -1,0 +1,6 @@
+[submodule "lib/jsActiveModel"]
+	path = lib/jsActiveModel
+	url = git://github.com/wyliethomas/jsActiveModel.git
+[submodule "lib/Kubari"]
+	path = lib/Kubari
+	url = https://github.com/Reisender/Kubari.git
